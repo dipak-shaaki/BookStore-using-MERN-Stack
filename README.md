@@ -37,7 +37,7 @@ None required beyond standard development tools like npm for package management.
 
 1.. Clone this repository:
     ```
-    git clone https://github.com/dipak-shanki/BookStore-using-MERN-Stack.git
+    [git clone https://github.com/dipak-shanki/BookStore-using-MERN-Stack.git](https://github.com/dipak-shanki/BookStore-using-MERN-Stack.git)
     ```
 
 2.. Install dependencies in both frontend (`client`) and backend (`server`) directories:
