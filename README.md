@@ -40,13 +40,7 @@ None required beyond standard development tools like npm for package management.
     [git clone https://github.com/dipak-shanki/BookStore-using-MERN-Stack.git](https://github.com/dipak-shanki/BookStore-using-MERN-Stack.git)
     ```
 
-2.. Install dependencies in both frontend (`client`) and backend (`server`) directories:
-    
-    ```
-    cd server && npm install && cd ../client && npm install 
-    ```
-
-3.. Configure `config.js` files if needed:
+2.. Configure `config.js` files if needed:
 
      - In `server` directory:
        ```
